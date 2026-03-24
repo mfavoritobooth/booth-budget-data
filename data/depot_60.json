@@ -1,0 +1,22 @@
+{
+  "userInputs": {
+    "d41-bayer-cropscience": {
+      "direction": "growing",
+      "change": "5%"
+    },
+    "d41-cargill-australia": {
+      "direction": "",
+      "change": ""
+    },
+    "d41-ixom": {
+      "direction": "",
+      "change": ""
+    },
+    "d60-a-g-oatley-wines-pty-ltd": {
+      "direction": "declining"
+    }
+  },
+  "newCustomers": {
+    "depot_41": []
+  }
+}
