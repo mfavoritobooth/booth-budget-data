@@ -1,0 +1,22 @@
+{
+  "userInputs": {
+    "d41-bayer-cropscience": {
+      "direction": "growing",
+      "change": "5%"
+    },
+    "d41-cargill-australia": {
+      "direction": "",
+      "change": ""
+    },
+    "d41-ixom": {
+      "direction": "",
+      "change": ""
+    },
+    "d30-barry-callebaut-australia-pty-ltd": {
+      "direction": "growing"
+    }
+  },
+  "newCustomers": {
+    "depot_41": []
+  }
+}
