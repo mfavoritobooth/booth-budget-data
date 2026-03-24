@@ -1,8 +1,8 @@
 {
   "userInputs": {
     "d41-bayer-cropscience": {
-      "direction": "growing",
-      "change": "5%"
+      "direction": "",
+      "change": ""
     },
     "d41-cargill-australia": {
       "direction": "declining",
