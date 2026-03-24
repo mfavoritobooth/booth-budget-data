@@ -3,6 +3,10 @@
     "d41-bayer-cropscience": {
       "direction": "growing",
       "change": "5%"
+    },
+    "d41-cargill-australia": {
+      "direction": "stable",
+      "change": ""
     }
   },
   "newCustomers": {}
