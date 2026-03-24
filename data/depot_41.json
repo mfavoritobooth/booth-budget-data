@@ -11,24 +11,9 @@
     "d41-ixom": {
       "direction": "",
       "change": ""
-    },
-    "depot_41-new-0-1774322376738": {
-      "direction": "new",
-      "change": "",
-      "notes": ""
     }
   },
   "newCustomers": {
-    "depot_41": [
-      {
-        "id": "depot_41-new-0-1774322376738",
-        "name": "jasmine",
-        "division": "Linehaul",
-        "currentRevenue": 250,
-        "isNew": true,
-        "accounts": [],
-        "lanes": []
-      }
-    ]
+    "depot_41": []
   }
 }
